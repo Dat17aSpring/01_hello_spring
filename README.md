@@ -1,4 +1,4 @@
-# #3 Hello Spring
+# #1 Hello Spring
 ## Tutorial: Build a spring boot application using intellij idea
 
 ### Create your new project with intellij
